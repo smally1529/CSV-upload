@@ -28,4 +28,4 @@
 
 # or use the URL 
 
-    https://github.com/smally1529/CSV-upload.git
+  https://github.com/smally1529/CSV-upload.git
